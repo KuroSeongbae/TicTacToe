@@ -1,0 +1,6 @@
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+Z:\Programmierung\VisualStudio\Konsolenanwendungen\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
